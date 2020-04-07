@@ -8,8 +8,8 @@ https://codesandbox.io/s/gatsby-theme-apollo-docs-hello-world-bywp2?file=/packag
 ## Issues
 
 * My test setup based on the theme README was throwing errors. I will need to build up to that example from this basic example.
-** component errors (unresolved)
-** needed to make dummy mdx and md files
+  * component errors (unresolved)
+  * needed to make dummy mdx and md files
 
 * I had trouble adding the theme with Yarn on MacOSX and needed to add puppeteer first with a Chromium flag
 
