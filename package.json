@@ -10,7 +10,8 @@
     "gatsby-theme-apollo-docs": "^4.1.4",
     "puppeteer": "^2.1.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-helmet": "^5.2.1"
   },
   "scripts": {
     "start": "gatsby develop",
